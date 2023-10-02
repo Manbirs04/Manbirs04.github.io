@@ -1,10 +1,7 @@
-html
-{background-color:red;}
- <style>
-        th,td {border:2px solid #000;
-        text-align: center;
-        }
-        table{
-        border-collapse:collapse;
-        }
-    </style>
+th(background-color : purple ;)
+tr:nth-child(even)(background-color : red ;)
+tr:nth-child(odd)(background-color : yellow ;)
+th,td(width:150px ;)
+th(text-align : left ;)
+td(text-align : center ;)
+caption (position : absolute ; bottom : 8; left:0;)
