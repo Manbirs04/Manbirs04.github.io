@@ -2,3 +2,13 @@
     display: block;
     margin: 0 auto;
 }
+
+<style>
+  body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSyLGvvyvWLTKBA6RPVux3T1sMviEs0QwWugk0Q8ODKQ&s'); /* Specify the path to your background image */
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Prevent image tiling */
+    background-attachment: fixed; /* Fixed background image */
+  }
+</style>
+
