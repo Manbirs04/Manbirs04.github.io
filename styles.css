@@ -1,10 +1,7 @@
-<style>
-body {
-    background-image: url(https://www.shutterstock.com/image-photo/above-aerial-view-turquoise-ocean-water-2269898437);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    font-family: Arial, sans-serif;
-    margin: 0;
+/* Style for the small image */
+.small-image {
+    float: right; /* Float the image to the right */
+    width: 150px; /* Adjust the width as needed */
+    margin: 10px; /* Add margin for spacing */
 }
-</style>
+
