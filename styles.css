@@ -1,5 +1,19 @@
 .centered-image {
-    display: block;
-    margin: 0 auto;
+    display: block; /* Make the image a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
 }
 
+/* Style for the small image on the left side */
+.left-image {
+    float: left; /* Float the image to the left */
+    width: 100px; /* Adjust the width as needed */
+    margin: 0 20px 20px 0; /* Add margin for spacing (top, right, bottom, left) */
+}
+
+/* Style for the small image */
+.small-image {
+    float: right; /* Float the image to the right */
+    width: 150px; /* Adjust the width as needed */
+    margin: 10px; /* Add margin for spacing */
+}
