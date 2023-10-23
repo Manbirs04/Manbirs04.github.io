@@ -1,5 +1,4 @@
-/* Style for the centered image */
 .centered-image {
-    display: block; /* Make the image a block-level element */
-    margin: 0 auto; /* Center the image horizontally */
+    display: block;
+    margin: 0 auto;
 }
