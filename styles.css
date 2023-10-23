@@ -1,7 +1,7 @@
 /* Style for the small image */
 .small-image {
-    float: right; /* Float the image to the right */
-    width: 300px; /* Adjust the width as needed */
-    margin: 50px; /* Add margin for spacing */
+    float: center; /* Float the image to the right */
+    width: 500px; /* Adjust the width as needed */
+    margin: 250px; /* Add margin for spacing */
 }
 
