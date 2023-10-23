@@ -1,7 +1,5 @@
-/* Style for the small image */
-.small-image {
-    float: center; /* Float the image to the right */
-    width: 150px; /* Adjust the width as needed */
-    margin: 10px; /* Add margin for spacing */
+.centered-image {
+    display: block; /* Make the image a block-level element */
+    margin: 0 auto; /* Center the image horizontally by setting left and right margins to 'auto' */
 }
 
